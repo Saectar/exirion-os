@@ -1,0 +1,1 @@
+If you wish to contribute to the project embedded operating system exirion-os, please send an email to support@exirion-os.org.
